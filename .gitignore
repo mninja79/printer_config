@@ -1,0 +1,5 @@
+printer-*
+telegram_config.sh
+moonraker.conf
+KlipperScreen.conf
+*.json
