@@ -1,5 +1,7 @@
 printer-*
 telegram_config.sh
+telegram_config.conf
 moonraker.conf
 KlipperScreen.conf
 *.json
+.*
